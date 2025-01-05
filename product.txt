@@ -1,0 +1,13 @@
+Cips,Atıştırmalık,35,45
+Kola,İçecek,45,35
+Çay,İçecek,25.0,30
+Muz,Meyve,59.95,50
+Çilek,Meyve,374.95,25
+Domates,Sebze,68.95,100
+Salatalık,Sebze,84.95,100
+Türk Somunu,Balık,359.95,20
+Kuzu Pirzola,Kırmızı Et,899.95,15
+Dana Antrikot,Kırmızı Et,879.95,19
+Hindi Gögüs,Beyaz Et,346.60,26
+Piliç Gögüs,Beyaz Et,169.95,64
+Çikolata,Atıştırmalık,72.50,58
