@@ -6,7 +6,7 @@ Bu proje, temel ve basit bir market yönetimi işlevlerini yerine getiren bir **
 
 ## 📋 İçindekiler
 
-- [Yönetici Girişi](###Yönetici-Girişi)
+- [Yönetici Girişi](#yönetici-girişi)
 
 ---
 
