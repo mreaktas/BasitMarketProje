@@ -6,12 +6,7 @@ Bu proje, temel ve basit bir market yönetimi işlevlerini yerine getiren bir **
 
 ## 📋 İçindekiler
 
-- [Özellikler](#özellikler)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Dosya Yapısı ve Veri Saklama](#dosya-yapısı-ve-veri-saklama)
-- [Güvenlik ve Doğrulama](#güvenlik-ve-doğrulama)
-- [Örnekler](#örnekler)
+- [Yönetici Girişi](###Yönetici-Girişi)
 
 ---
 
